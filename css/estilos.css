@@ -1,0 +1,82 @@
+.tablaprincipal{
+    border: 0;
+    width: 100%;
+    height: 100%;
+}
+.fondo-tabla{
+    background-color: white;  
+    width: 28%; 
+    height:100%;
+}
+.boton-menu{
+    width: 40px; 
+    height: 40px;
+}
+.boton{
+    width: 15px; 
+    height: 15px;
+}
+.logo{
+    width:30%; 
+    height:30%;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    border-width: 2px;
+} 
+#titulo{
+    font-size: 30px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#texto{
+    font-size:18px;
+    color: rgb(199, 246, 248);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+#texto2{
+    font-size:20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif; 
+}
+#subtitulo{ 
+    font-size: 27px;
+    color: Lavender;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+.texto-opc{
+    font-size:20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+#botones{
+    font-size: 10;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#download{
+    font-size: 10;
+    background-color:rgb(139, 145, 151); border-color:rgb(124, 130, 136); color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#how-to{
+    font-size: 10;
+    background-color:rgb(58, 112, 158); border-color:rgb(40, 70, 97); color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Gratipay{
+    font-size: 10;
+    background-color:green; border-color:green; color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tabla3{
+    color: white;
+    width: 80%; 
+    height: 80%;
+}
+#tabla2{
+    color: white;
+    width: 20%;
+    height: 60%;
+}
